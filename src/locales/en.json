@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "home": "Home",
+    "new-sales-order": "New Sales Order"
+  },
+  "home": {
+    "title": "Home",
+    "content": "Global Sales Dashboard.",
+    "sales-by-partner": "Sales by Partner",
+    "no-sales-data": "No sales data available."
+  },
+  "sales-beer-summary": {
+    "no-orders": "No Orders",
+    "total-sales": "Total Sales Amount"
+  },
+  "sales-order": {
+    "unit-price": "Unit Price",
+    "quantity": "Quantity"
+  },
+  "new-sales-order": {
+    "title": "New Sales Order",
+    "subtitle": "Register a Sales Order for a Customer",
+    "select-customer": "Select Customer",
+    "customer-placeholder": "Choose a customer",
+    "select-beer-type": "Select Beer Type",
+    "beer-type-placeholder": "Choose a beer type",
+    "select-beer": "Select Beer",
+    "beer-placeholder": "Choose a beer",
+    "unit-price": "Unit Price",
+    "quantity": "Quantity",
+    "quantity-placeholder": "Enter quantity (1–1499)",
+    "quantity-validation": "Quantity must be greater than 0 and less than 1500.",
+    "create": "Create",
+    "cancel": "Cancel"
+  },
+  "toast": {
+    "success-title": "Success",
+    "create-success": "Sales order created successfully.",
+    "error-title": "Error",
+    "create-error": "Could not create the sales order."
+  },
+  "page-not-found": {
+    "title": "Page Not Found",
+    "content": "The path \"{path}\" was not found.",
+    "go-home": "Go Home"
+  }
+}

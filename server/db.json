@@ -1,0 +1,96 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Whole Foods Market",
+      "email": "orders@wholefoods.com",
+      "address": "123 Main St, New York NY"
+    },
+    {
+      "id": 2,
+      "name": "Total Wine & More",
+      "email": "procurement@totalwine.com",
+      "address": "456 Oak Ave, Miami FL"
+    },
+    {
+      "id": 3,
+      "name": "BevMo!",
+      "email": "purchasing@bevmo.com",
+      "address": "789 Pine Rd, Los Angeles CA"
+    },
+    {
+      "id": 4,
+      "name": "Spec's Wine",
+      "email": "orders@specswine.com",
+      "address": "101 Elm St, Houston TX"
+    },
+    {
+      "id": 5,
+      "name": "K&L Wine Merchants",
+      "email": "orders@klwines.com",
+      "address": "200 Market St, San Francisco CA"
+    }
+  ],
+  "sales-orders": [
+    {
+      "id": 1,
+      "customerId": 1,
+      "beerType": "ale",
+      "beerId": 1,
+      "beerName": "Founders All Day IPA",
+      "unitPrice": 16.99,
+      "quantity": 24,
+      "registeredAt": "2026-05-01T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "customerId": 2,
+      "beerType": "ale",
+      "beerId": 1,
+      "beerName": "Founders All Day IPA",
+      "unitPrice": 16.99,
+      "quantity": 12,
+      "registeredAt": "2026-05-02T11:00:00Z"
+    },
+    {
+      "id": 3,
+      "customerId": 1,
+      "beerType": "stouts",
+      "beerId": 2,
+      "beerName": "Guinness Draught",
+      "unitPrice": 18.99,
+      "quantity": 48,
+      "registeredAt": "2026-05-03T09:00:00Z"
+    },
+    {
+      "id": 4,
+      "customerId": 3,
+      "beerType": "ale",
+      "beerId": 3,
+      "beerName": "Sierra Nevada Pale Ale",
+      "unitPrice": 14.99,
+      "quantity": 36,
+      "registeredAt": "2026-05-04T14:00:00Z"
+    },
+    {
+      "id": 5,
+      "customerId": 4,
+      "beerType": "stouts",
+      "beerId": 2,
+      "beerName": "Guinness Draught",
+      "unitPrice": 18.99,
+      "quantity": 60,
+      "registeredAt": "2026-05-05T15:00:00Z"
+    },
+    {
+      "customerId": 2,
+      "beerType": "ale",
+      "beerId": 94,
+      "beerName": "Wicked Weed Pernicious IPA",
+      "unitPrice": 12.99,
+      "quantity": 3,
+      "registeredAt": "2026-05-22T20:35:52.422Z",
+      "id": 6
+    }
+  ]
+}

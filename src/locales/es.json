@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "new-sales-order": "Nueva Orden de Venta"
+  },
+  "home": {
+    "title": "Inicio",
+    "content": "Panel Global de Ventas.",
+    "sales-by-partner": "Ventas por Socio",
+    "no-sales-data": "No hay datos de ventas disponibles."
+  },
+  "sales-beer-summary": {
+    "no-orders": "Sin Órdenes",
+    "total-sales": "Monto Total de Ventas"
+  },
+  "sales-order": {
+    "unit-price": "Precio Unitario",
+    "quantity": "Cantidad"
+  },
+  "new-sales-order": {
+    "title": "Nueva Orden de Venta",
+    "subtitle": "Registrar una Orden de Venta para un Cliente",
+    "select-customer": "Seleccionar Cliente",
+    "customer-placeholder": "Elige un cliente",
+    "select-beer-type": "Seleccionar Tipo de Cerveza",
+    "beer-type-placeholder": "Elige un tipo de cerveza",
+    "select-beer": "Seleccionar Cerveza",
+    "beer-placeholder": "Elige una cerveza",
+    "unit-price": "Precio Unitario",
+    "quantity": "Cantidad",
+    "quantity-placeholder": "Ingresa la cantidad (1–1499)",
+    "quantity-validation": "La cantidad debe ser mayor que 0 y menor que 1500.",
+    "create": "Crear",
+    "cancel": "Cancelar"
+  },
+  "toast": {
+    "success-title": "Éxito",
+    "create-success": "Orden de venta creada exitosamente.",
+    "error-title": "Error",
+    "create-error": "No se pudo crear la orden de venta."
+  },
+  "page-not-found": {
+    "title": "Página No Encontrada",
+    "content": "La ruta \"{path}\" no fue encontrada.",
+    "go-home": "Ir al Inicio"
+  }
+}
